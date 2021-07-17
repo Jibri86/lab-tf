@@ -2,9 +2,9 @@ aws_region = "us-east-2"
 
 aws_profile = "TF-LAB"
 
-AWS_ACCESS_KEY = "AKIAJYM32A7NKXUJZOUA"
+AWS_ACCESS_KEY = ""
 
-AWS_SECRET_KEY = "u/k2MgkisjxBZBLgzPCMCTrdynX7QocvXSDHPtYJ"
+AWS_SECRET_KEY = ""
 
 remote_state_bucket = "state-terraform-s3"
 
